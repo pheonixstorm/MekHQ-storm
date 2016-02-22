@@ -17,11 +17,11 @@ Buffel Engineering Support Vehicle VII
 </Name>
 
 <Model>
-(Reverse)
+(Cargo)
 </Model>
 
 <year>
-2552
+2451
 </year>
 
 <type>
@@ -52,14 +52,18 @@ Tracked
 7
 </barrating>
 
+<structural_tech_rating>
+2
+</structural_tech_rating>
+
 <Body Equipment>
 IS Ammo MG - Full
 Armored Chassis
 </Body Equipment>
 
 <Front Equipment>
-ISMineSweeper
 Machine Gun
+Bulldozer
 </Front Equipment>
 
 <Right Equipment>
@@ -69,9 +73,7 @@ Machine Gun
 </Left Equipment>
 
 <Rear Equipment>
-ISVehicularGrenadeLauncher (R)
-ISVehicularGrenadeLauncher (R)
-Bulldozer
+ISMineSweeper
 </Rear Equipment>
 
 <Turret Equipment>
@@ -82,7 +84,7 @@ Lift Hoist
 </Turret Equipment>
 
 <transporters>
-cargobay:2.5:1
+cargobay:3.5:1
 </transporters>
 
 <source>

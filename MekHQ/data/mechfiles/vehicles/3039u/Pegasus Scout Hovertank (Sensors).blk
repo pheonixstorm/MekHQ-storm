@@ -32,13 +32,13 @@ IS Level 2
 Hover
 </motion_type>
 
-<engine_type>
-1
-</engine_type>
-
 <cruiseMP>
 8
 </cruiseMP>
+
+<engine_type>
+1
+</engine_type>
 
 <armor>
 26

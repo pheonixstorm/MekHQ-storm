@@ -17,24 +17,16 @@ Pegasus Scout Hover Tank
 </Name>
 
 <Model>
-(Standard)
+(Sensors)
 </Model>
 
 <year>
-2791
+2798
 </year>
 
-<source>
-RS 3039 Unabriged
-</source>
-
 <type>
-IS Level 1
+IS Level 2
 </type>
-
-<tonnage>
-35.0
-</tonnage>
 
 <motion_type>
 Hover
@@ -57,7 +49,8 @@ Hover
 </armor>
 
 <Body Equipment>
-IS Ammo SRM-6
+IS Ammo SRM-4
+IS Ammo SRM-4
 </Body Equipment>
 
 <Front Equipment>
@@ -74,7 +67,7 @@ Medium Laser
 </Rear Equipment>
 
 <Turret Equipment>
-SRM 6
-SRM 6
+SRM 4
+SRM 4
 </Turret Equipment>
 

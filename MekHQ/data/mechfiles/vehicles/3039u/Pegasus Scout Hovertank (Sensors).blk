@@ -51,6 +51,7 @@ Hover
 <Body Equipment>
 IS Ammo SRM-4
 IS Ammo SRM-4
+RemoteSensorDispenser
 </Body Equipment>
 
 <Front Equipment>
@@ -71,3 +72,10 @@ SRM 4
 SRM 4
 </Turret Equipment>
 
+<source>
+RS 3039 Unabriged
+</source>
+
+<tonnage>
+35.0
+</tonnage>
